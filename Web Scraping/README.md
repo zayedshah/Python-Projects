@@ -7,6 +7,6 @@ We will use Python for Web Scraping. The website used will be Financial Times. U
 
 ### Dependencies
 
-BeautifulSoup
-lxml
-requests
+- BeautifulSoup
+- lxml
+- requests
